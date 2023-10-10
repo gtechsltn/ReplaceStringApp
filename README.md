@@ -1,6 +1,5 @@
 # Replace String App
-+ An Console App that replaces some string from App.config with some conditional
-1/ Full file name does not contains
++ An Console App that replaces some string from App.config with a conditional that the **full file path** does not contains the following word:
   + "-cli-"
   + "\obj\"
   + "\bin\"
